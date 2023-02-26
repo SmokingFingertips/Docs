@@ -5,16 +5,16 @@ Repository contenente tutta la documentazione del progetto:
 - Candidatura
   - [Candidatura](Candidatura/Candidatura.pdf)
 - Studio di fattibilità
-  - [Studio di fattibilità](Studio%20di%20Fattibilit%C3%A0/StudioDiFattibilit%C3%A0_v1.0.0.pdf)
+  - [Studio di fattibilità](Studio%20di%20Fattibilit%C3%A0/StudioDiFattibilita_v1.0.0.pdf)
 - RTB
   - Documentazione Esterna
     - Verbali
-      - [Verbale 2022-10-24](RTB/Documentazione%20Esterna/Verbali/VI_2022_10_24.pdf)
-      - [Verbale 2022-10-25](RTB/Documentazione%20Esterna/Verbali/VI_2022_10_25.pdf)
-      - [Verbale 2022-10-26](RTB/Documentazione%20Esterna/Verbali/VI_2022_10_26.pdf)
-      - [Verbale 2022-11-28](RTB/Documentazione%20Esterna/Verbali/VI_2022_11_28.pdf)
-      - [Verbale 2022-12-23](RTB/Documentazione%20Esterna/Verbali/VI_2022_12_23.pdf)
-      - [Verbale 2023-02-15](RTB/Documentazione%20Esterna/Verbali/VI_2023_02_15.pdf)
+      - [Verbale 2022-10-24](RTB/Documentazione%20Esterna/Verbali/VE_2022_10_24.pdf)
+      - [Verbale 2022-10-25](RTB/Documentazione%20Esterna/Verbali/VE_2022_10_25.pdf)
+      - [Verbale 2022-10-26](RTB/Documentazione%20Esterna/Verbali/VE_2022_10_26.pdf)
+      - [Verbale 2022-11-28](RTB/Documentazione%20Esterna/Verbali/VE_2022_11_28.pdf)
+      - [Verbale 2022-12-23](RTB/Documentazione%20Esterna/Verbali/VE_2022_12_23.pdf)
+      - [Verbale 2023-02-15](RTB/Documentazione%20Esterna/Verbali/VE_2023_02_15.pdf)
     - [Analisi dei requisiti](RTB/Documentazione%20Esterna/AnalisiDeiRequisiti_v1.0.0.pdf)
     - [Glossario](RTB/Documentazione%20Esterna/Glossario_v1.0.0.pdf)
     - [Piano di qualifica](RTB/Documentazione%20Esterna/PianoDiQualifica_v1.0.0.pdf)
