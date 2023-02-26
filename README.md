@@ -3,9 +3,9 @@
 Repository contenente tutta la documentazione del progetto:
 
 - Candidatura
-  - [Candidatura](Candidatura/candidatura.pdf)
+  - [Candidatura](Candidatura/Candidatura.pdf)
 - Studio di fattibilità
-  - [Studio di fattibilità](Studio%20di%20fattibilit%C3%A0/studio_di_fattibilit%C3%A0_v1.0.0.pdf)
+  - [Studio di fattibilità](Studio%20di%20Fattibilit%C3%A0/StudioDiFattibilit%C3%A0_v1.0.0.pdf)
 - RTB
   - Documentazione Esterna
     - Verbali
@@ -15,10 +15,10 @@ Repository contenente tutta la documentazione del progetto:
       - [Verbale 2022-11-28](RTB/Documentazione%20Esterna/Verbali/VI_2022_11_28.pdf)
       - [Verbale 2022-12-23](RTB/Documentazione%20Esterna/Verbali/VI_2022_12_23.pdf)
       - [Verbale 2023-02-15](RTB/Documentazione%20Esterna/Verbali/VI_2023_02_15.pdf)
-    - [Analisi dei requisiti](RTB/Documentazione%20Esterna/analisi_dei_requisiti_v1.0.0.pdf)
-    - [Glossario](RTB/Documentazione%20Esterna/glossario_v1.0.0.pdf)
-    - [Piano di qualifica](RTB/Documentazione%20Esterna/piano_di_qualifica_v1.0.0.pdf)
-    - [Piano di progetto](RTB/Documentazione%20Esterna/piano_di_progetto_v1.0.0.pdf)
+    - [Analisi dei requisiti](RTB/Documentazione%20Esterna/AnalisiDeiRequisiti_v1.0.0.pdf)
+    - [Glossario](RTB/Documentazione%20Esterna/Glossario_v1.0.0.pdf)
+    - [Piano di qualifica](RTB/Documentazione%20Esterna/PianoDiQualifica_v1.0.0.pdf)
+    - [Piano di progetto](RTB/Documentazione%20Esterna/PianoDiProgetto_v1.0.0.pdf)
   - Documentazione Interna
     - Verbali
       - [Verbale 2022-11-03](RTB/Documentazione%20Interna/Verbali/VI_2022_11_03.pdf)
@@ -34,5 +34,5 @@ Repository contenente tutta la documentazione del progetto:
       - [Verbale 2023-02-04](RTB/Documentazione%20Interna/Verbali/VI_2023_02_04.pdf)
       - [Verbale 2023-02-11](RTB/Documentazione%20Interna/Verbali/VI_2023_02_11.pdf)
       - [Verbale 2023-02-18](RTB/Documentazione%20Interna/Verbali/VI_2023_02_18.pdf)
-    - [Norme di progetto](RTB/Documentazione%20Interna/norme_di_progetto_v1.0.0.pdf)
-  - [Lettera di presentazione](RTB/lettera_di_presentazione_RTB.pdf)
+    - [Norme di progetto](RTB/Documentazione%20Interna/NormeDiProgetto_v1.0.0.pdf)
+  - [Lettera di presentazione](RTB/LetteraDiPresentazione_RTB.pdf)
