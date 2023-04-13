@@ -23,6 +23,7 @@ Repository contenente tutta la documentazione del progetto:
       - [Verbale 2023-03-10](PB/Documentazione%20Interna/Verbali/VI_2023_03_10.pdf)
       - [Verbale 2023-03-17](PB/Documentazione%20Interna/Verbali/VI_2023_03_17.pdf)
       - [Verbale 2023-03-24](PB/Documentazione%20Interna/Verbali/VI_2023_03_24.pdf)
+      - [Verbale 2023-03-30](PB/Documentazione%20Interna/Verbali/VI_2023_03_30.pdf)
       - [Verbale 2023-04-07](PB/Documentazione%20Interna/Verbali/VI_2023_04_07.pdf)
       - [Verbale 2023-04-13](PB/Documentazione%20Interna/Verbali/VI_2023_04_13.pdf)
     - [Norme di progetto](PB/Documentazione%20Interna/NormeDiProgetto_v2.0.0.pdf)
