@@ -8,8 +8,8 @@ Repository contenente tutta la documentazione del progetto:
   - [Studio di fattibilità](Studio%20di%20Fattibilit%C3%A0/StudioDiFattibilita_v1.0.0.pdf)
 - PB
   - Documentazione Esterna
-    <!-- - Verbali
-      - [Verbale 2023-04-04](PB/Documentazione%20Esterna/Verbali/VE_2023_04_04.pdf) -->
+    - Verbali
+      - [Verbale 2023-04-04](PB/Documentazione%20Esterna/Verbali/VE_2023_04_04.pdf)
     - [Analisi dei requisiti](PB/Documentazione%20Esterna/AnalisiDeiRequisiti_v2.0.0.pdf)
     <!-- - [Glossario](PB/Documentazione%20Esterna/Glossario_v2.0.0.pdf)
     - [Piano di qualifica](PB/Documentazione%20Esterna/PianoDiQualifica_v2.0.0.pdf)
