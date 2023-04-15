@@ -8,15 +8,15 @@ Repository contenente tutta la documentazione del progetto:
   - [Studio di fattibilità](Studio%20di%20Fattibilit%C3%A0/StudioDiFattibilita_v1.0.0.pdf)
 - PB
   - Documentazione Esterna
-    - Verbali
-      - [Verbale 2023-04-04](PB/Documentazione%20Esterna/Verbali/VE_2023_04_04.pdf)
+    <!-- - Verbali
+      - [Verbale 2023-04-04](PB/Documentazione%20Esterna/Verbali/VE_2023_04_04.pdf) -->
     - [Analisi dei requisiti](PB/Documentazione%20Esterna/AnalisiDeiRequisiti_v2.0.0.pdf)
-    - [Glossario](PB/Documentazione%20Esterna/Glossario_v2.0.0.pdf)
+    <!-- - [Glossario](PB/Documentazione%20Esterna/Glossario_v2.0.0.pdf)
     - [Piano di qualifica](PB/Documentazione%20Esterna/PianoDiQualifica_v2.0.0.pdf)
-    - [Piano di progetto](PB/Documentazione%20Esterna/PianoDiProgetto_v2.0.0.pdf)
+    - [Piano di progetto](PB/Documentazione%20Esterna/PianoDiProgetto_v2.0.0.pdf) -->
     - [Manuale d'uso](PB/Documentazione%20Esterna/ManualeUso_v1.0.0.pdf)
     - [Specifica tecnica](PB/Documentazione%20Esterna/SpecificaTecnica_v1.0.0.pdf)
-  - Documentazione Interna
+  <!-- - Documentazione Interna
     - Verbali
       - [Verbale 2023-03-01](PB/Documentazione%20Interna/Verbali/VI_2023_03_01.pdf)
       - [Verbale 2023-03-03](PB/Documentazione%20Interna/Verbali/VI_2023_03_03.pdf)
@@ -26,7 +26,7 @@ Repository contenente tutta la documentazione del progetto:
       - [Verbale 2023-03-30](PB/Documentazione%20Interna/Verbali/VI_2023_03_30.pdf)
       - [Verbale 2023-04-07](PB/Documentazione%20Interna/Verbali/VI_2023_04_07.pdf)
       - [Verbale 2023-04-13](PB/Documentazione%20Interna/Verbali/VI_2023_04_13.pdf)
-    - [Norme di progetto](PB/Documentazione%20Interna/NormeDiProgetto_v2.0.0.pdf)
+    - [Norme di progetto](PB/Documentazione%20Interna/NormeDiProgetto_v2.0.0.pdf) -->
   - [Lettera di presentazione](PB/LetteraDiPresentazione_PB.pdf)
 - RTB
   - Documentazione Esterna
